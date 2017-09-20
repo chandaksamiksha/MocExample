@@ -1,0 +1,5 @@
+D:\Training\PracticePrograms\MocExample\MocExample\bin\Debug\MocExample.dll
+D:\Training\PracticePrograms\MocExample\MocExample\bin\Debug\MocExample.pdb
+D:\Training\PracticePrograms\MocExample\MocExample\obj\Debug\MocExample.csproj.CoreCompileInputs.cache
+D:\Training\PracticePrograms\MocExample\MocExample\obj\Debug\MocExample.dll
+D:\Training\PracticePrograms\MocExample\MocExample\obj\Debug\MocExample.pdb
