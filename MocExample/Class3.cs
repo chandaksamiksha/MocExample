@@ -8,7 +8,11 @@ namespace MocExample
 {
     public class Class3
     {
-        public int MethodClass3(int i)
+        public Class3()
+        {
+
+        }
+        public virtual int MethodClass3(int i)
         {
             return i;
         }

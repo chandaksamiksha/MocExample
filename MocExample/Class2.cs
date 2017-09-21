@@ -9,7 +9,11 @@ namespace MocExample
     public class Class2
     {
         Class3 c3;
-        public string MethodClass2()
+        public Class2()
+        {
+
+        }
+        public virtual string MethodClass2()
         {
             return c3.MethodClass3(2).ToString();
         }
